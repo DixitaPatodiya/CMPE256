@@ -1,4 +1,4 @@
-# CMPE256
+# CMPE256 Project
 
 1.1 Motivation:
  
